@@ -1,2 +1,2 @@
-# Style-Guide
+# Style Guide
 The ContractStandards Style Guide
