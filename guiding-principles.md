@@ -1,4 +1,6 @@
-# General
+# Guiding Principles
+
+## General
 The ContractStandards Style Guide takes a modular, hierarchical approach to contract drafting, starting with the overall organization, delving deeper into sentences and words.
 
 1. **Organization**: Follow a consistent, logical organizational structure
@@ -8,7 +10,7 @@ The ContractStandards Style Guide takes a modular, hierarchical approach to cont
 5. **Words**: Use standard language, without jargon or legalese
 6. **Punctuation**: Use punctuation to aid readability
 
-# Organization
+## Organization
 
 Apply a consistent structure: Contract Standards Framework for Exchange Agreements
 
@@ -22,7 +24,7 @@ Apply a consistent structure: Contract Standards Framework for Exchange Agreemen
 8. **Remedies**. What can the parties do in the event the other does not perform its obligations?
 9. **General Provisions**. How are disputes resolved? What laws apply? Who is benefited and bound by the agreement? How is the contract interpreted?
 
-# Clauses
+## Clauses
 
 Clauses consolidate all elements of a single concept
 
