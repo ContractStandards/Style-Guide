@@ -48,3 +48,16 @@ Clauses consolidate all elements of a single concept
 4. **White space**
     * Use white space to clarify meaning, particularly with lists
     * Break long clauses with multiple clauses into their own, separate clauses
+
+## Sentences
+
+Sentences capture a single thought.
+
+1. **SVO: Draft in short, declarative sentences, using the form subject—verb—object.
+2. Subject: Clearly indicate the subject of the sentence. Avoid indeterminate subjects, such as, "There are no representations, covenants, or other terms other than those set forth in this agreement".
+3. Modifiers: Clearly mark conditions, qualifications, and exceptions.
+4. Conditions: a prerequisite to an obligation or statement. For example: "If...."
+5. Qualification: a modification, limitation, or restriction to an obligation or statement.
+6. Exception: a situation excluded from the general rule.
+
+Unless clarity suggests otherwise, the preferred sequence of sentence elements is [condition], [obligation or statement], [qualification or exception].
