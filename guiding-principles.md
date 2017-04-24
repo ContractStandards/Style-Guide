@@ -61,3 +61,54 @@ Sentences capture a single thought.
 6. Exception: a situation excluded from the general rule.
 
 Unless clarity suggests otherwise, the preferred sequence of sentence elements is [condition], [obligation or statement], [qualification or exception].
+
+## Words
+
+Words are the essential building blocks
+
+1. Standard English: Use standard English, without jargon or legalese
+      * Choose the simpler, commonly used word: provide rather than furnish
+2. Duplicate Words: Eliminate duplicative words: sell rather than sell, transfer, and assign
+3. Unnecessary Words: Eliminate all unnecessary words
+      * Use "any" rather than "any and all"
+      * Use "The Employer may..." rather than "The Employer may, for any reason whatsoever,..."
+      * Decide if you need a descriptive list introduced by "including" - if you do, include only essential terms
+4. Numbers and Dates
+      * Spell out numbers up to nine but use numerals for 10 and above
+      * Use percentage symbol: 80%
+      * Use words for figures of one million and greater
+      * No short-form date formats: December 31, 1999 and not 31/12/1999
+5. "This agreement"
+      * Refer to "this agreement" rather than "this Agreement"
+      * There is no need to define "this agreement."
+6. "shall," "must," and "will"
+      * Use "shall" to mean [a party] has a duty to, such as "The Purchaser shall pay interest"
+      * Except for shorter consumer agreements, avoid "must"; use "shall" instead
+      * Use "will" to indicate futurity: This agreement will automatically renew...
+7. "reasonable efforts"
+      * Use only "reasonable efforts" and not any variation ("commercially reasonable efforts", etc.)
+      * If aiming at a higher standard, do not use "best efforts" but define the standard
+8. Problematic words
+      * Exercise care when using terms such as "affect" and "effect", "alternate" and "alternative", "assume" and "presume", "between" and "among", "further" and "farther", "fewer" and "less", and "principle" and "principal"
+      
+## Punctuation and Grammar
+
+Use proper punctuation and grammar to aid readability
+
+1. Commas, semicolons, and periods
+      * Use the serial comma for phrases using "and" or "or": A, B, and C or A, B, or C
+      * Use the semicolon only as an alternative to a period; it is not as an alternative to a comma
+      * Avoid periods in abbreviations: US rather than U.S.
+2. Quotations and apostrophes
+      * Use "traditional" rather than "logical" punctuation: quotations follow commas and periods, although they precede colons and semicolons
+      * Do not use apostrophes to indicate plurals: MDs, not MD's
+3. Grammar
+      * Proper use of "that" and "which": "which" introduces a subordinate clause that is set off from the rest of the sentence by commas at the beginning and end
+      
+## Special cases
+
+1. Avoid Latin terms: Use "for example" rather than "e.g." and "in other words" instead of "i.e."
+2. Avoid "and/or": The phrase "A and/or B" may mean A or B, A and B, or A or B or both. Use the intended meaning.
+3. Do not underline: use either bold or italics for emphasis.
+4. Do not use full caps: NEVER USE THIS IN AN AGREEMENT.
+5. Use contractions to aid understanding: "the Company's assets" rather than "the assets of the Company."
