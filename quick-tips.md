@@ -1,4 +1,4 @@
-# Quick Tips
+# [Style Guide](index.md) / Quick Tips
 
 1. Sentence Pattern
     * CONDITION, PARTY MODAL VERB OBJECT. EXCEPTION (**NOTE**: Exception in next sentence)
