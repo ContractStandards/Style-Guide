@@ -1,4 +1,4 @@
-# Elements
+# [Style Guide](index.md) / Elements
 
 Contracts are formal documents, generally constructed from three basic forms of sentences, each following the form of subject...verb...object.
 
