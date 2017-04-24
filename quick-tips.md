@@ -25,26 +25,26 @@
            1.2 **Merger Sub’s Acceptance and Payment Obligation**. The Merger Sub shall accept and pay for all Company Shares validly tendered and not validly withdrawn pursuant to the Offer, promptly after the Expiration Date, or as soon as possible following the tender of those Company Shares and satisfaction of the Offer Conditions.
 
 4. Headings
-  * Always have headings for substantive clauses. “Substantive Clauses” are those with a distinct obligation, right, restriction, or other legal statement. You do not need to have headings for sub-items that are just lists.
-  * Headings should be
-    * Descriptive and specific (e.g., if clause relates to compliance with export laws, say “Compliance with Export Laws” and not “Compliance with Laws”),
-    * Unique (never repeat a heading), and
-    * Short (keeping the above two items in mind, make headings as short as possible).
+   * Always have headings for substantive clauses. “Substantive Clauses” are those with a distinct obligation, right, restriction, or other legal statement. You do not need to have headings for sub-items that are just lists.
+   * Headings should be
+      * Descriptive and specific (e.g., if clause relates to compliance with export laws, say “Compliance with Export Laws” and not “Compliance with Laws”),
+      * Unique (never repeat a heading), and
+      * Short (keeping the above two items in mind, make headings as short as possible).
 
 5. Definitions
-  * Definitions placement is a function of that definition’s scope. Is the definition used throughout the document or only in a specific clause?
-  * If the definition is used throughout the document, place definition in the document’s “Definitions” section.
-  * If the definition is only used in a specific clause, create a “Definitions” subclause in that section to define that term OR define them inline.
+   * Definitions placement is a function of that definition’s scope. Is the definition used throughout the document or only in a specific clause?
+   * If the definition is used throughout the document, place definition in the document’s “Definitions” section.
+   * If the definition is only used in a specific clause, create a “Definitions” subclause in that section to define that term OR define them inline.
   
 6. Capitalization
-  * Every capitalized word or phrase should be defined somewhere in the document.
-  * Do not capitalize obvious terms. 
-    * We want to avoid circular definitions.
-    * For example, “this agreement” does not need to be capitalized. It is fairly obvious that you are referring to the document. You do not need to define “Agreement” in the document. Even if you did, what would the definition be? “‘Agreement’ means this agreement”? That is a circular definition. 
-    * If you are referring to another agreement, like “the Master Agreement” in an SOW, you can capitalize that.
-  * Terms that generally do not need to be capitalized:
-    * This agreement
-    * The parties
+   * Every capitalized word or phrase should be defined somewhere in the document.
+   * Do not capitalize obvious terms. 
+      * We want to avoid circular definitions.
+      * For example, “this agreement” does not need to be capitalized. It is fairly obvious that you are referring to the document. You do not need to define “Agreement” in the document. Even if you did, what would the definition be? “‘Agreement’ means this agreement”? That is a circular definition. 
+      * If you are referring to another agreement, like “the Master Agreement” in an SOW, you can capitalize that.
+   * Terms that generally do not need to be capitalized:
+      * This agreement
+      * The parties
 
       
 
