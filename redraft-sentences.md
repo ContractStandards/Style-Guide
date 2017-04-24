@@ -1,6 +1,4 @@
-# Examples
-
-## Redrafting Sentences
+# Redrafting Sentences
 
 | Example|Preferred|Comments|
 | -------|---------|--------|
