@@ -1,4 +1,4 @@
-# Remove Legalese
+# [Style Guide](index.md) / Remove Legalese
 
 The table below shows examples of legalese in the left column and the recommended standard English replacement in the right column.
 
