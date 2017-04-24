@@ -1,4 +1,4 @@
-# Redrafting Sentences
+# [Style Guide](index.md) / Redrafting Sentences
 
 | Example|Preferred|Comments|
 | -------|---------|--------|
