@@ -1,4 +1,4 @@
-# Guiding Principles
+# [Style Guide](index.md) / Guiding Principles
 
 ## General
 The ContractStandards Style Guide takes a modular, hierarchical approach to contract drafting, starting with the overall organization, delving deeper into sentences and words.
