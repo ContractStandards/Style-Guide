@@ -1,0 +1,14 @@
+# ContractStandards Analysis Process
+
+## Collect Samples
+The analysis is based on a representative sample of agreement of the same type (such as employment, license, or merger agreements). In order to be comprehensive, the sample set should represent a statitically relevant sample, or, in other words, a sufficient number of samples that capture the full range of contract variability. The required number is also affected by the overall degree of consistency (or divergence) the set. Where the sample set is highly conforming, fewer samples are required.
+
+The overall nature of the reference standard is controlled by selecting the agreements used to construct the analysis. Where the source agreements are limited to a organization’s templates, the result is a "private" standard. Where the standard is drawn from publicly available agreements, the result is a "public" standard.
+
+## Create Reference Standard
+The process starts by analyzing existing agreements. Machine learning software quickly understands and organizes large collections of contracts and constructs a variability analysis.  This analysis creates a "reference standard," which is used to compare agreements to each other and to the overall standard. It captures how the agreements are organized, what clauses they contain, the standard language of each clause, and all deal-specific variations.
+Learn more (TBD)
+
+## Clause Statistics
+In addition, the process gathers key statistical information about the commonality and consistency metrics for each clause. This analysis provides insights into which clauses are highly negotiated (common, but divergent), standard (common and consistent), or transaction-specific (less common, but consistent), and which are deal-specific (less common and divergent).
+Learn more (TBD)
