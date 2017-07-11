@@ -19,3 +19,8 @@ Drafting tools and examples to apply contract standards style to your contracts.
 This document is intended to explain the most important items from the CS Style Guide. It may not cover everything but should get a drafter 80% there. 
 
 [Read More](quick-tips.md)
+
+## Glossary
+Description of common contract analysis and contract standards terms. 
+
+[Read More](glossary.md)
